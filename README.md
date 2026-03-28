@@ -1,4 +1,4 @@
-# 🚀 DataAstral
+# 🦾 DataAstral
 
 One million projects. One path to mastery.
 
