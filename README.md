@@ -1,3 +1,4 @@
+![DataAstral Banner](banner.png)
 # 🦾 DataAstral
 
 One million projects. One path to mastery.
