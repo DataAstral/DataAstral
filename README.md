@@ -23,7 +23,7 @@ Building skills in Automation, AI & Data
 
 ---
 
-## 🧭 Project Roadmap (in progress)
+## Project Roadmap (in progress)
 
 This GitHub is being built as a structured ecosystem:
 
@@ -40,7 +40,7 @@ This GitHub is being built as a structured ecosystem:
 
 ---
 
-## 🧠 Skills
+## Skills
 
 - Python (beginner → growing)  
 - Git & GitHub  
@@ -49,13 +49,13 @@ This GitHub is being built as a structured ecosystem:
 
 ---
 
-## 📊 Progress
+## Progress
 
 Progress: [░░░░░░░░░░] 0.0001% complete  
 
 ---
 
-## 📫 Contact
+## Contact
 
 - GitHub: https://github.com/DataAstral  
 
