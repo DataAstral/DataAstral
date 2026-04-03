@@ -7,18 +7,18 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-🚀 DataAstral — one million projects journey  
-💻 Computer Science student (UK)  
-🎯 Building skills in Automation, AI & Data  
+DataAstral — one million projects journey  
+Computer Science student (UK)  
+Building skills in Automation, AI & Data  
 
 ---
 
 ## 📁 Current Projects
 
-👤 1M Python Journey  
+💻 1M Python Journey  
 → https://github.com/DataAstral/1m-python-journey  
 
-📦 One Million Projects Journey  
+💻 One Million Projects Journey  
 → https://github.com/DataAstral/OneMillionProjectsJourney  
 
 ---
